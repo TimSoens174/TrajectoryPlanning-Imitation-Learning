@@ -6,17 +6,13 @@ To achieve stable and realistic driving behavior, the agent first learns through
 
 ## Project Goal
 
-The goal is to train a vehicle to drive safely, efficiently, and smoothly in complex urban scenarios involving:
+The goal is to train a vehicle to drive safely, efficiently, and smoothly in urban scenarios involving:
 
-Dynamic traffic participants (cars, cyclists, pedestrians)
+- Intersections
 
-Intersections and traffic lights
+- Speed limits
 
-Pedestrian crossings
-
-Speed limits
-
-Curved roads and lane geometries
+- Curved roads and lane geometries
 
 ## Frenet Planner – Demonstration
 
